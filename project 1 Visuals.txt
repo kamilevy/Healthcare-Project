@@ -1,0 +1,13 @@
+Visualizations for project 1:
+
+    1.Pull census list(weatherpy) to get listof areas where the hospitals are located between the 2 states.
+    
+    2.Dataframe that has total pop of our sample, the 3 areas(sub,urban, rural), facilities (pandas hw)
+    
+    3. line graph: show how the higher the income the better access to heathcare facilities, low income less access to healthcare facilities.(pharm hw)
+    
+    4. Scatter plots: will show where majorty of the healthcare facilities are located based on urban, sub, rural, area(PYBER HW) based on pop / capita.  maybe use a heat map is there is time to do so.
+    
+    5. make a few pie charts that show % break downs based on demographic correlation with income (based of urban, sub, rural areas) of where healthcare facilities area
+    
+    6. does the higer the income give you better access to hospital facilities?  Does the lower the income give you less access?  Whats the mean?
